@@ -10,12 +10,8 @@ $(function(){
     autoplaySpeed: 5000,
   });
 
-  wow = new WOW(
-    {
-      mobile: false,       // default
-    }
-  )
-  wow.init();
+
+  new WOW().init();
 
 
 
