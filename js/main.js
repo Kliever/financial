@@ -18,7 +18,7 @@ $(function(){
       $('.values__item-number-1--span').spincrement({
         thousandSeparator: '',
         decimalPoint: '.',
-        duration: 4000,
+        duration: 6000,
         from: 0,
         to: 99,
         decimalPlaces: null,
