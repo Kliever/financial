@@ -1,0 +1,35 @@
+@keyframes animDots{
+  0%{
+    opacity: 0;
+  }
+  100%{
+    opacity: 100%;
+  }
+}
+
+@keyframes animLine1{
+  0%{
+    width: 0;
+  }
+  100%{
+    width: 138px;
+  }
+}
+
+@keyframes animLine2{
+  0%{
+    width: 0;
+  }
+  100%{
+    width: 120px;
+  }
+}
+
+@keyframes animLine3{
+  0%{
+    width: 0;
+  }
+  100%{
+    width: 130px;
+  }
+}

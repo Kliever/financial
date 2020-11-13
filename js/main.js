@@ -1,6 +1,5 @@
 $(function(){
 
-
   $('.header__slider').slick({
     arrows: false,
     dots: true,
@@ -34,8 +33,6 @@ $(function(){
   $('.menu-btn').on('click', function () {
     $('.menu').slideToggle();
   })
-
-
 
 });
 
